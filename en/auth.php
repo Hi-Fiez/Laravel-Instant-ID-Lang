@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'Kredensial ini tidak sesuai dengan catatan kami.',
-    'throttle' => 'Terlalu banyak usaha login. Silakan coba lagi dalam :seconds detik.',
+    'failed'   => 'Identitas tersebut tidak cocok dengan data kami.',
+    'throttle' => 'Terlalu banyak usaha masuk. Silahkan coba lagi dalam :seconds detik.',
 
 ];
